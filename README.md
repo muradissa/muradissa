@@ -1,6 +1,6 @@
 
 ---
-<img align="right" border-radius="50" alt="coding" width="400" src="https://github.com/muradissa/muradissa/assets/70263297/7ff734e1-75b9-4d30-885e-b22e244aa94e" />
+<img align="right" borderRadius="50" alt="coding" width="300" src="https://github.com/muradissa/muradissa/assets/70263297/7ff734e1-75b9-4d30-885e-b22e244aa94e" />
 
 <h1 align="center">Hi 👋, I'm Murad Issa</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack Developer from Israel</h3>

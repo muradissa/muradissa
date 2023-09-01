@@ -10,11 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muradissa&label=Profile%20views&color=0e75b6&style=flat" alt="muradissa" /> </p>
 <p align="center"><img  margin="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradissa&" alt="muradissa" /></p>
-<img align="right" alt="coding" width="400" src="https://github.com/muradissa/muradissa/assets/70263297/7ff734e1-75b9-4d30-885e-b22e244aa94e.gif" />
-
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradissa" alt="muradissa" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://github.com/muradissa/muradissa/assets/70263297/7ff734e1-75b9-4d30-885e-b22e244aa94e" />
 
 
 <br/>

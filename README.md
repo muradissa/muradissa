@@ -16,6 +16,8 @@
 ---
 <h1 align="center">Hi 👋, I'm Murad Issa</h1>
 <h3 align="center">A passionate Software Engineer & Full Stack Developer from Israel</h3>
+<h3 align="center">📫 How to reach me **muradissa00@gmail.com**</h3>
+
 
 ## 📊 GitHub Stats
 
@@ -23,10 +25,8 @@
 <p margin="auto"><img  margin="auto" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muradissa&" alt="muradissa" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradissa" alt="muradissa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muradissa" alt="muradissa" /></a> </p>
 
-
-- 📫 How to reach me **muradissa00@gmail.com**
 
 <br/>
 

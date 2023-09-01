@@ -32,7 +32,9 @@
 
 - 👨‍💻 All of my projects are available at [https://murad-issa-website.pages.dev/](https://murad-issa-website.pages.dev/)
 <br/>
+
 ## 🌐 Socials
+
 <!--
 <h3 align="left">## 🌐 Connect with me:</h3>-->
 <p align="left">
